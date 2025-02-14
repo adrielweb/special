@@ -19,7 +19,7 @@ yesBtn.addEventListener("click", function () {
         <div class='response-content'>
             <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBidGl4NDN2c2YybHRnOWNsd3ljZ296MmRsaHY0YW95ZnA5MGhrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wPnbkEcr2tXiTN0Lmq/giphy.gif' 
                 alt='Happy Valentine Gif' class='response-gif'>
-            <p class='response-text'>Yay! ❤️ See you on Valentine's Day!</p>
+            <p class='response-text'>Yay! ❤️ See you on Valentine's Day! Einjiiiii my hunn❤️</p>
         </div>`;
 });
 
